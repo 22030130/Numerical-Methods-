@@ -1,7 +1,7 @@
 <h1>Tema 3: Ejercicios de solución de sistemas de ecuaciones con implementación en Java</h1>
 
 <h2>Método de eliminación Gaussiana</h2>
-<a href="">Descripción</a></br>
+<a href="Sobre_los_metodos/Eliminacion_Gaussiana.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="EJERCICIOS_T03/Metodo_EliminacionGaussiana/src/Paquete01/Main.java">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
