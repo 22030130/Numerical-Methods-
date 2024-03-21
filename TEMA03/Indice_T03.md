@@ -21,7 +21,7 @@
 <h2>Método de Gauss Seidel</h2>
 <a href="">Descripción</a></br>
 <a href="">Algoritmo</a></br>
-<a href="">Implementación</a></br>
+<a href="EJERCICIOS_T03/Metodo_GaussSeidel/src/Paquete01/Main.java">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
