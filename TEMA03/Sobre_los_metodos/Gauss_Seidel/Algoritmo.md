@@ -3,9 +3,11 @@
 1.- Acomodar el sistema de ecuaciones de manera que tegna una diagonal dominante, (que el coeficiente relativo de la variable sea mayor en el eje vertical y horizontal) en caso de no serlo, tratar de acomodarlo de la manera más cercana a una diagonal dominante.
 
 Sistema de ecuaciones: 
+
 ![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/150ee71a-32bd-423b-86fe-63898edcc6c5)
 
 Acomodo del sistema de ecuaciones: 
+
 ![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/915defa6-faaa-44ba-8886-e18dbb99fb0a)
 
 2.- Despejar el valor de cada variable respecto al renglón del sistema:
