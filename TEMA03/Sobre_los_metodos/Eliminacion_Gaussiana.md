@@ -1,2 +1,3 @@
-<h1>Eliminación Gaussiana</h1>
-![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/7456a0b4-6374-4609-bf78-c3d2853dd39a)
+# Eliminación Gaussiana 
+
+![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/6ad0a30b-eb35-4d41-89fd-079baaa02cf3)
