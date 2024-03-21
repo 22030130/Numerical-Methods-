@@ -1,4 +1,4 @@
-<h1>Tema 3: Ejercicios de solución de sistemas de ecuaciones con implementación en Java</h1>
+<h1>Tema 3: Métodos de solución de sistemas de ecuaciones</h1>
 
 <h2>Método de eliminación Gaussiana</h2>
 <a href="Sobre_los_metodos/Eliminacion_Gaussiana/Elminicacion_Gaussiana_descrip.md">Descripción</a></br>
