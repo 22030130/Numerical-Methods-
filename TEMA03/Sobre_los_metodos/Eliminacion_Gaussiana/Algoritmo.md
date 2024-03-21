@@ -1,5 +1,6 @@
 # Algoritmo para eliminación Gaussiana 
 1.- Escriba la matriz aumentada del sistema de ecuaciones lineales. 
+
 ![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/d828e3ce-4e0d-42bf-8849-51cbd4ea24bb)
 
 2.- Transporte el sistema de ecuaciones a sistema matrical y resuelva la matríz identidad de la misma:
