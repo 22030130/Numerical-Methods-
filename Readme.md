@@ -8,4 +8,4 @@ Los métodos numéricos constituyen técnicas mediante las cuales es posible for
 La función de este repositorio es proporcionar de nuevo la información tomada como apuntes de las clases recibidas, el cual, contiene definiciones, imágenes que complementen el contenido, descripciones, algoritmos y códigos sobre los métodos para solución de problemas en la materia de métodos numéricos. Buen viaje.
 
 <h2>Índice</h2>
-[Índice](Indice.md)
+[Índice](Indice.md) 
