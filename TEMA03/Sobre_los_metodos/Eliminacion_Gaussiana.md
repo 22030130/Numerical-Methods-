@@ -1,3 +1,2 @@
 # Eliminación Gaussiana 
-
-![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/6ad0a30b-eb35-4d41-89fd-079baaa02cf3)
+El método de eliminación Gaussiana consiste en transformar el sistema de ecuaciones a la forma matrical, resolviendo de esta manera la matriz triangular inferior y posteriormente con el uso de álgrebra obtener el resutlado de las demás variables. 
