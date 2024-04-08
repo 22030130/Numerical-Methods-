@@ -6,7 +6,7 @@
 <a href="EJERCICIOS_T03/Metodo_EliminacionGaussiana/src/Paquete01/Main.java">Implementación</a></br>
 <a href="Ejemplos/Eliminacion_Gaussiana01.md">Ejercicio 1</a></br>
 <a href="Ejemplos/Eliminacion_Gaussiana02.md">Ejercicio 2</a></br>
-<a href="">Ejercicio 3</a></br>
+<a href="Ejemplos/Eliminacion_Gaussiana03.md">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a></br>
 
 <h2>Método de Gauss Jordan</h2>
