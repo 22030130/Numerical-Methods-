@@ -1,4 +1,4 @@
-# Ejemplo 4: eliminación Gaussiana es Java
+# Ejemplo 4: eliminación Gaussiana con Java
 
 Sistema de ecuaciones:
 
