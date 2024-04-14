@@ -1,4 +1,4 @@
-# Ejercicio 3: Gauss Seidel
+# Ejercicio 4: Gauss Seidel
 
 Sistema de ecuaciones:
 
