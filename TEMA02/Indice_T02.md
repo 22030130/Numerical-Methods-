@@ -3,7 +3,7 @@
 <h2>Método gráfico</h2>
 <a href="Metodo-Gráfico/Descripcion.md">Descripción</a></br>
 <a href="Metodo-Gráfico/Algoritmo.md">Algoritmo</a></br>
-<a href="">Implementación</a></br>
+<a href="Metodo-Gráfico/Implementacion.md">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
