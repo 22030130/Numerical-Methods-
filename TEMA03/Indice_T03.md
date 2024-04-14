@@ -34,7 +34,7 @@
 <a href="Ejemplos/Jacobi/Jacobi01.md">Ejercicio 1</a></br>
 <a href="Ejemplos/Jacobi/Jacobi02.md">Ejercicio 2</a></br>
 <a href="Ejemplos/Jacobi/Jacobi03.md">Ejercicio 3</a></br>
-<a href="">Ejercicio 4</a>
+<a href="Ejemplos/Jacobi/Jacobi04.md">Ejercicio 4</a>
 
 <h2>Bibliografía</h2>
 <a href="Biliografia/Referencias.md">Ir a las referencias</a>
