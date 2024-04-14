@@ -16,7 +16,7 @@
 <a href="Ejemplos/Gauss-Jordan/Gauss-Jordan01.md">Ejercicio 1</a></br>
 <a href="Ejemplos/Gauss-Jordan/Gauss-Jordan02.md">Ejercicio 2</a></br>
 <a href="Ejemplos/Gauss-Jordan/Gauss-Jordan03.md">Ejercicio 3</a></br>
-<a href="">Ejercicio 4</a></br>
+<a href="Ejemplos/Gauss-Jordan/Gauss-Jordan04.md">Ejercicio 4</a></br>
 
 <h2>Método de Gauss Seidel</h2>
 <a href="Sobre_los_metodos/Gauss_Seidel/Descripcion.md">Descripción</a></br>
