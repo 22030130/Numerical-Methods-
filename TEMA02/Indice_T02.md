@@ -7,7 +7,7 @@
 <a href="Metodo-Gráfico/Ejercicios/Ejercicio01.md">Ejercicio 1</a></br>
 <a href="Metodo-Gráfico/Ejercicios/Ejercicio02.md">Ejercicio 2</a></br>
 <a href="Metodo-Gráfico/Ejercicios/Ejercicio03.md">Ejercicio 3</a></br>
-<a href="">Ejercicio 4</a></br>
+<a href="Metodo-Gráfico/Ejercicios/Ejercicio04.md">Ejercicio 4</a></br>
 
 <h2>Método de bisección</h2>
 <a href="">Descripción</a></br>
