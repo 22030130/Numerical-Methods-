@@ -12,6 +12,6 @@ Resultado final:
 
 ![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/9434b51d-7b83-4f9c-8f43-1529e096fc65)
 
+Comprobación con otro software:
 
-
-
+![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/30cff7b9-7fc0-43dd-adf7-18a95b85f00a)
