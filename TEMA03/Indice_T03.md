@@ -14,7 +14,7 @@
 <a href="Sobre_los_metodos/Gauss_Jordan/Algoritmo.md">Algoritmo</a></br>
 <a href="EJERCICIOS_T03/Metodo_GaussJordan/src/Paquete01/Main.java">Implementación</a></br>
 <a href="Ejemplos/Gauss-Jordan/Gauss-Jordan01.md">Ejercicio 1</a></br>
-<a href="">Ejercicio 2</a></br>
+<a href="Ejemplos/Gauss-Jordan/Gauss-Jordan02.md">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a></br>
 
