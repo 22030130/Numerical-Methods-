@@ -1,7 +1,7 @@
 <h1>Tema 2: Métodos de solución de ecuaciones</h1>
 
 <h2>Método gráfico</h2>
-<a href="">Descripción</a></br>
+<a href="Metodo-Gráfico/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
