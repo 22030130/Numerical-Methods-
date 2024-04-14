@@ -31,7 +31,7 @@
 <a href="Sobre_los_metodos/Jacobi/Descripcion.md">Descripción</a></br>
 <a href="Sobre_los_metodos/Jacobi/Algoritmo.md">Algoritmo</a></br>
 <a href="EJERCICIOS_T03/Metodo_Jacobi/src/Paquete01/Main.java">Implementación</a></br>
-<a href="">Ejercicio 1</a></br>
+<a href="Ejemplos/Jacobi/Jacobi01.md">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a>
