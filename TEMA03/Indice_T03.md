@@ -33,7 +33,7 @@
 <a href="EJERCICIOS_T03/Metodo_Jacobi/src/Paquete01/Main.java">Implementación</a></br>
 <a href="Ejemplos/Jacobi/Jacobi01.md">Ejercicio 1</a></br>
 <a href="Ejemplos/Jacobi/Jacobi02.md">Ejercicio 2</a></br>
-<a href="">Ejercicio 3</a></br>
+<a href="Ejemplos/Jacobi/Jacobi03.md">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a>
 
 <h2>Bibliografía</h2>
