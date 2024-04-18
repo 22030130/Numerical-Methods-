@@ -11,7 +11,7 @@
 
 <h2>Método de bisección</h2>
 <a href="Metodo_biseccion/Descripcion.md">Descripción</a></br>
-<a href="">Algoritmo</a></br>
+<a href="Metodo_biseccion/Algoritmo.md">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
