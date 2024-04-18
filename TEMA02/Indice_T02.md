@@ -14,7 +14,7 @@
 <a href="Metodo_biseccion/Algoritmo.md">Algoritmo</a></br>
 <a href="Metodo_biseccion/Implementacion/Implementacion.md">Implementación</a></br>
 <a href="Metodo_biseccion/Ejercicios/Ejercicio01.md">Ejercicio 1</a></br>
-<a href="">Ejercicio 2</a></br>
+<a href="Metodo_biseccion/Ejercicios/Ejercicio02.md">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a></br>
 
