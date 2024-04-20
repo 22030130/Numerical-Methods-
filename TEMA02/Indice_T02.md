@@ -19,7 +19,7 @@
 <a href="Metodo_biseccion/Ejercicios/Ejercicio4.md">Ejercicio 4</a></br>
 
 <h2>Método de regla falsa</h2>
-<a href="">Descripción</a></br>
+<a href="Regla_falsa/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
