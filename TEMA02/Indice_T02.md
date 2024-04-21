@@ -43,7 +43,7 @@
 <a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio01.md">Ejercicio 1</a></br>
 <a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio02.md">Ejercicio 2</a></br>
 <a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio03.md">Ejercicio 3</a></br>
-<a href="">Ejercicio 4</a></br>
+<a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio04.md">Ejercicio 4</a></br>
 
 <h2>Bibliografía</h2>
 <a href="Bibliografia/Bibliografia.md">Ir a bibliografía</a>
