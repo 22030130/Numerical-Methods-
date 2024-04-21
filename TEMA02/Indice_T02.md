@@ -29,7 +29,7 @@
 
 <h2>Método de la secante</h2>
 <a href="Metodo_secante/Descripcion.md">Descripción</a></br>
-<a href="">Algoritmo</a></br>
+<a href="Metodo_secante/Algoritmo.md">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
