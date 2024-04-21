@@ -45,5 +45,3 @@
 <a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio03.md">Ejercicio 3</a></br>
 <a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio04.md">Ejercicio 4</a></br>
 
-<h2>Bibliografía</h2>
-<a href="Bibliografia/Bibliografia.md">Ir a bibliografía</a>
