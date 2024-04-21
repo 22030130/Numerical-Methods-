@@ -23,7 +23,7 @@
 <a href="Regla_falsa/Algoritmo.md">Algoritmo</a></br>
 <a href="Regla_falsa/Implementacion/Implementacion.md">Implementación</a></br>
 <a href="Regla_falsa/Ejercicios/Ejercicio01.md">Ejercicio 1</a></br>
-<a href="">Ejercicio 2</a></br>
+<a href="Regla_falsa/Ejercicios/Ejercicio02.md">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a></br>
 
