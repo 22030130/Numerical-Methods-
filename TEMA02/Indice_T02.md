@@ -37,7 +37,7 @@
 <a href="Metodo_secante/Ejercicios/Ejercicio04.md">Ejercicio 4</a></br>
 
 <h2>Método de Newton Rapson</h2>
-<a href="">Descripción</a></br>
+<a href="Metodo_Newton_Raphson/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
