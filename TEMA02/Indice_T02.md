@@ -40,7 +40,7 @@
 <a href="Metodo_Newton_Raphson/Descripcion.md">Descripción</a></br>
 <a href="Metodo_Newton_Raphson/Algoritmo.md">Algoritmo</a></br>
 <a href="Metodo_Newton_Raphson/Implementacion/Implementacion.md">Implementación</a></br>
-<a href="">Ejercicio 1</a></br>
+<a href="Metodo_Newton_Raphson/Ejercicios/Ejercicio01.md">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
 <a href="">Ejercicio 4</a></br>
