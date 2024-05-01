@@ -1,12 +1,12 @@
 <h1>Tema 4: Diferenciación e integración numérica</h1>
 
 <h2>Método del trapecio</h2>
-<a href="">Descripción</a>
-<a href="">Algoritmo</a>
-<a href="">Implementación</a>
-<a href="">Ejercicio 1</a>
-<a href="">Ejercicio 2</a>
-<a href="">Ejercicio 3</a>
-<a href="">Ejercicio 4</a>
+<a href="">Descripción</a></br>
+<a href="">Algoritmo</a></br>
+<a href="">Implementación</a></br>
+<a href="">Ejercicio 1</a></br>
+<a href="">Ejercicio 2</a></br>
+<a href="">Ejercicio 3</a></br>
+<a href="">Ejercicio 4</a></br>
 
 
