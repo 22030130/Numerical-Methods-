@@ -11,7 +11,7 @@
 
 <h2>Método Simpson 1/3</h2>
 <a href="Metodo_Simpson1-3/Descripcion.md">Descripción</a></br>
-<a href="">Algoritmo</a></br>
+<a href="Metodo_Simpson1-3/Algoritmo.md">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejemplo 1</a></br>
 <a href="">Ejemplo 2</a></br>
