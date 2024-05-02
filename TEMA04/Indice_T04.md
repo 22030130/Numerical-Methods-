@@ -10,7 +10,7 @@
 <a href="Metodo_trapecio/Ejemplos/Ejemplo04.md">Ejemplo 4</a></br>
 
 <h2>Método Simpson 1/3</h2>
-<a href="">Descripción</a></br>
+<a href="Metodo_Simpson1-3/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejemplo 1</a></br>
