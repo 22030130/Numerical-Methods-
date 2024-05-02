@@ -3,7 +3,7 @@
 <h2>Método del trapecio</h2>
 <a href="Metodo_trapecio/Descripcion.md">Descripción</a></br>
 <a href="Metodo_trapecio/Algoritmo.md">Algoritmo</a></br>
-<a href="TEMA04/Metodo_trapecio/Implementacion/Implementacion.md">Implementación</a></br>
+<a href="Metodo_trapecio/Implementacion/Implementacion.md">Implementación</a></br>
 <a href="">Ejercicio 1</a></br>
 <a href="">Ejercicio 2</a></br>
 <a href="">Ejercicio 3</a></br>
