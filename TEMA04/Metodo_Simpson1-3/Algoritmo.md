@@ -1,4 +1,4 @@
-Algoritmo para el método Simpson 1/3 
+# Algoritmo para el método Simpson 1/3 
 
 Paso 1: 
 
