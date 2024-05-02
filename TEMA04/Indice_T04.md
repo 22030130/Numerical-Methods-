@@ -5,7 +5,7 @@
 <a href="Metodo_trapecio/Algoritmo.md">Algoritmo</a></br>
 <a href="Metodo_trapecio/Implementacion/Implementacion.md">Implementación</a></br>
 <a href="Metodo_trapecio/Ejemplos/Ejemplo01.md">Ejemplo 1</a></br>
-<a href="">Ejemplo 2</a></br>
+<a href="Metodo_trapecio/Ejemplos/Ejemplo02.md">Ejemplo 2</a></br>
 <a href="">Ejemplo 3</a></br>
 <a href="">Ejemplo 4</a></br>
 
