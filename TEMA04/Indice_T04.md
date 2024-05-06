@@ -23,9 +23,9 @@
 <a href="Metodo_Simpson3-8/Algoritmo.md">Algoritmo</a></br>
 <a href="Metodo_Simpson3-8/Implementacion/Implementacion.md">Implementación</a></br>
 <a href="Metodo_Simpson3-8/Ejemplos/Ejemplo01.md">Ejemplo 1</a></br>
-<a href="">Ejemplo 2</a></br>
-<a href="">Ejemplo 3</a></br>
-<a href="">Ejemplo 4</a></br>
+<a href="Metodo_Simpson3-8/Ejemplos/Ejemplo02.md">Ejemplo 2</a></br>
+<a href="Metodo_Simpson3-8/Ejemplos/Ejemplo03.md">Ejemplo 3</a></br>
+<a href="Metodo_Simpson3-8/Ejemplos/Ejemplo04.md">Ejemplo 4</a></br>
 
 
 
