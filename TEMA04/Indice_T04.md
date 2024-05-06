@@ -19,7 +19,7 @@
 <a href="Metodo_Simpson1-3/Ejemplos/Ejemplo04.md">Ejemplo 4</a></br>
 
 <h2>Método Simpson 3/8</h2>
-<a href="">Descripción</a></br>
+<a href="Metodo_Simpson3-8/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejemplo 1</a></br>
