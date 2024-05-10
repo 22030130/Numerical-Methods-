@@ -10,7 +10,7 @@ public class Main {
         String sx1 = JOptionPane.showInputDialog("Ingrese el valor para x1");
         String sy0 = JOptionPane.showInputDialog("Ingrese el valor para y0");
         String sy1 = JOptionPane.showInputDialog("Ingrese el valor para y1");
-        
+        //
         double x = Double.parseDouble(sx);
         double x0 = Double.parseDouble(sx0);
         double x1 = Double.parseDouble(sx1);
