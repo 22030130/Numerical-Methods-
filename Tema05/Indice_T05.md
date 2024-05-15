@@ -15,5 +15,5 @@
 <a href="">Implementación</a></br>
 <a href="InterpolacionCuadratica/Ejemplos/Ejemplo01.md">Ejemplo 1</a></br>
 <a href="InterpolacionCuadratica/Ejemplos/Ejemplo02.md">Ejemplo 2</a></br>
-<a href="">Ejemplo 3</a></br>
+<a href="InterpolacionCuadratica/Ejemplos/Ejemplo03.md">Ejemplo 3</a></br>
 <a href="">Ejemplo 4</a></br>
