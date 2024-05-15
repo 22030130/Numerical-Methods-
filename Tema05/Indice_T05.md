@@ -2,7 +2,7 @@
 
 <h2>Método de interpolación lineal</h2>
 <a href="InterpolacionLineal/Decripcion.md">Descripción</a></br>
-<a href="">Algoritmo</a></br>
+<a href="InterpolacionLineal/Algoritmo.md">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejemplo 1</a></br>
 <a href="">Ejemplo 2</a></br>
