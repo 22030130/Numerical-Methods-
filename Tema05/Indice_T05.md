@@ -7,7 +7,7 @@
 <a href="InterpolacionLineal/Ejemplos/Ejemplo01.md">Ejemplo 1</a></br>
 <a href="InterpolacionLineal/Ejemplos/Ejemplo02.md">Ejemplo 2</a></br>
 <a href="InterpolacionLineal/Ejemplos/Ejemplo03.md">Ejemplo 3</a></br>
-<a href="">Ejemplo 4</a></br>
+<a href="InterpolacionLineal/Ejemplos/Ejemplo04.md">Ejemplo 4</a></br>
 
 <h2>Método de interpolación cuadrática</h2>
 <a href="InterpolacionCuadratica/Descripcion.md">Descripción</a></br>
