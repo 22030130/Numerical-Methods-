@@ -8,3 +8,6 @@
 
 <h2>Tema 4</h2>
 <a href="TEMA04/Indice_T04.md">Ir al índice del tema 4</a>
+
+<h2>Tema 5</h2>
+<a href="Tema05/Indice_T05.md">Ir al índice del tema 5</a>
