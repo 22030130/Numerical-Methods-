@@ -10,7 +10,7 @@
 <a href="">Ejemplo 4</a></br>
 
 <h2>Método de interpolación cuadrática</h2>
-<a href="">Descripción</a></br>
+<a href="InterpolacionCuadratica/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejemplo 1</a></br>
