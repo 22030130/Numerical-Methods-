@@ -6,7 +6,7 @@ public class Main {
     public static void main(String args []){
         DecimalFormat formato = new DecimalFormat("#.##");
         Scanner lee = new Scanner(System.in);
-        
+        // WWW
         System.out.println("Método de interpolación cuadrática\n\nIngrese el valor para x0:");
         double x0 = lee.nextDouble();
         System.out.println("Ingrese el valor para x:");
