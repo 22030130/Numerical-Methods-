@@ -13,7 +13,7 @@ Se utiliza un método abierto similar para encontrar un valor óptimo de f(x) al
 
 ![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/628781cd-783c-4f47-820e-47bb2efe5ff7)
 
-como una técnica para encontrar el mínimo o máximo de f(x). Se deberá observar que
+Es una técnica para encontrar el mínimo o máximo de f(x). Se deberá observar que
 esta ecuación también se obtiene escribiendo una serie de Taylor de segundo orden para
 f(x) e igualando la derivada de la serie a cero. El método de Newton es abierto y similar
 al de Newton-Raphson, pues no requiere de valores iniciales que contengan al óptimo.
