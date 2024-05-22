@@ -28,7 +28,7 @@
 <a href="Newton/Ejemplos/Ejemplo04.md">Ejemplo 4</a></br>
 
 <h2>Método de Lagrange</h2>
-<a href="">Descripción</a></br>
+<a href="Lagrange/Descripcion.md">Descripción</a></br>
 <a href="">Algoritmo</a></br>
 <a href="">Implementación</a></br>
 <a href="">Ejemplo 1</a></br>
