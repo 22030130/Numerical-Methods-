@@ -24,7 +24,7 @@
 <a href="Newton/Implementacion.md">Implementación</a></br>
 <a href="Newton/Ejemplos/Ejemplo01.md">Ejemplo 1</a></br>
 <a href="Newton/Ejemplos/Ejemplo02.md">Ejemplo 2</a></br>
-<a href="">Ejemplo 3</a></br>
+<a href="Newton/Ejemplos/Ejemplo03.md">Ejemplo 3</a></br>
 <a href="">Ejemplo 4</a></br>
 
 <h2>Método de Lagrange</h2>
