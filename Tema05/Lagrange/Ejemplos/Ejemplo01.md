@@ -2,6 +2,8 @@
 
 Puntos:
 
+![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/787f3b26-4e58-45e4-9b1a-7503d5f951e4)
+
 ![image](https://github.com/22030130/Numerical-Methods-/assets/147437999/dd9521c1-2198-4990-b881-995b7c10f9be)
 
 Proceso del programa:
