@@ -31,7 +31,7 @@
 <a href="Lagrange/Descripcion.md">Descripción</a></br>
 <a href="Lagrange/Algoritmo.md">Algoritmo</a></br>
 <a href="Lagrange/Implementacion.md">Implementación</a></br>
-<a href="">Ejemplo 1</a></br>
+<a href="Lagrange/Ejemplos/Ejemplo01.md">Ejemplo 1</a></br>
 <a href="">Ejemplo 2</a></br>
 <a href="">Ejemplo 3</a></br>
 <a href="">Ejemplo 4</a></br>
