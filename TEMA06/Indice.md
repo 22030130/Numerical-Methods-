@@ -13,10 +13,10 @@
 <a href="Metodo_Taylor/Descripcion.md">Descripción</a></br>
 <a href="Metodo_Taylor/Algoritmo.md">Algoritmo</a></br>
 <a href="Metodo_Taylor/Implementacion.md">Implementación</a></br>
-<a href="">Ejemplo 1</a></br>
-<a href="">Ejemplo 2</a></br>
-<a href="">Ejemplo 3</a></br>
-<a href="">Ejemplo 4</a></br>
+<a href="Metodo_Taylor/Ejemplo01.md">Ejemplo 1</a></br>
+<a href="Metodo_Taylor/Ejemplo02.md">Ejemplo 2</a></br>
+<a href="Metodo_Taylor/Ejemplo03.md">Ejemplo 3</a></br>
+<a href="Metodo_Taylor/Ejemplo04.md">Ejemplo 4</a></br>
 
 <h2>Método Rugen</h2>
 <a href="">Descripción</a></br>
