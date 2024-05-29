@@ -11,3 +11,6 @@
 
 <h2>Tema 5</h2>
 <a href="Tema05/Indice_T05.md">Ir al índice del tema 5</a>
+
+<h2>Tema 6</h2>
+<a href="TEMA06/Indice.md">Ir al índice del tema 6</a>
