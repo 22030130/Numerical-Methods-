@@ -1,0 +1,28 @@
+<h1>índice del tema 6</h1>
+
+<h2>Método Euler</h2>
+<a href="">Descripción</a></br>
+<a href="">Algoritmo</a></br>
+<a href="">Implementación</a></br>
+<a href="">Ejemplo 1</a></br>
+<a href="">Ejemplo 2</a></br>
+<a href="">Ejemplo 3</a></br>
+<a href="">Ejemplo 4</a></br>
+
+<h2>Método Taylor</h2>
+<a href="">Descripción</a></br>
+<a href="">Algoritmo</a></br>
+<a href="">Implementación</a></br>
+<a href="">Ejemplo 1</a></br>
+<a href="">Ejemplo 2</a></br>
+<a href="">Ejemplo 3</a></br>
+<a href="">Ejemplo 4</a></br>
+
+<h2>Método Rugen</h2>
+<a href="">Descripción</a></br>
+<a href="">Algoritmo</a></br>
+<a href="">Implementación</a></br>
+<a href="">Ejemplo 1</a></br>
+<a href="">Ejemplo 2</a></br>
+<a href="">Ejemplo 3</a></br>
+<a href="">Ejemplo 4</a></br>
