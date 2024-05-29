@@ -1,4 +1,4 @@
-<h1>índice del tema 6</h1>
+<h1>Índice del tema 6</h1>
 
 <h2>Método Euler</h2>
 <a href="Metodo_Euler/Descripcion.md">Descripción</a></br>
